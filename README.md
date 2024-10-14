@@ -1,4 +1,4 @@
 # Računalniški praktikum
-nekaj nekaj važnega 
-nekaj NEKAJ zelo važnega 
-_bla bla bla_ 
+Ctrl+A izbere vse kar imamo napisano
+Ctrl+Z izbriše spremembe oz. razveljavi (undo) 
+Ctrl+C za kopirati (in še Ctrl+V za prilepiti) 
