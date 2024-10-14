@@ -1,4 +1,4 @@
 # Računalniški praktikum
 nekaj nekaj važnega 
-nekaj nekaj zelo važnega 
-bla bla bla
+nekaj NEKAJ zelo važnega 
+_bla bla bla_ 
